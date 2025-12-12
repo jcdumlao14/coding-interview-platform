@@ -33,7 +33,7 @@ concurrently "npm run dev:server" "npm run dev:client"
 ```
 @monaco-editor/react (or CodeMirror)
 ```
-### Question 5: Code Execution
+### Question 5: Python WASM library
 ```
 Pyodide
 ```
