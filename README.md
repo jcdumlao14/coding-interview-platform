@@ -26,7 +26,7 @@ To run both the client and server concurrently:
 ```bash
 npm run dev
 ```
-- Client runs on: `http://localhost:5174/jh986y`
+- Client runs on: `http://localhost:5173`
 - Server runs on: `http://localhost:3000`
 
 ## Integration Tests
