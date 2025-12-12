@@ -1,0 +1,15 @@
+{
+    "build": {
+        "dockerfilePath": "Dockerfile"
+    },
+    "envs": {
+        "PORT": "3001"
+    },
+    "deploy": {
+        "restartPolicyType": "ON_FAILURE"
+    },
+    "service": {
+        "name": "coding-interview-platform",
+        "runCommand": "node server/index.js"
+    }
+}
