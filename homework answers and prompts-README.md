@@ -276,6 +276,10 @@ npm run dev
 make test
 ```
 
-[![image]()]
+## Coding Interview Platform
+
+![image](https://github.com/jcdumlao14/coding-interview-platform/blob/main/Screenshot%202025-12-12%20134407.png)
+
+![image](https://github.com/jcdumlao14/coding-interview-platform/blob/main/Screenshot%202025-12-12%20134300.png)
 
 
